@@ -1,3 +1,3 @@
 # Python-Leetcode
 
-# This repository is for the practice of leetcode in python from the very beginning.
+# This repository is for the practice of leetcode in python from scratch.
